@@ -1,0 +1,21 @@
+Node,Degree,Omics
+SL 40:3,18,Lipidomics
+Cer 39:7 #1,18,Lipidomics
+Cer 37:7 #2,17,Lipidomics
+HERC2P9 #9,13,Peptidomics
+HERC2P9 #25,13,Peptidomics
+P00735 #8,12,Peptidomics
+Diphenyl phosphate,12,Metabolomics
+Isosaxalin,12,Metabolomics
+P34955 #23,12,Peptidomics
+"1,5,9-trihydroxy-5,7,7-tr...",12,Metabolomics
+NCGC00386061-01_C29H37NO5...,11,Metabolomics
+N4-Acetylsulfadimethoxine,11,Metabolomics
+BMP 28:3,10,Lipidomics
+TG 38:6,10,Lipidomics
+PG O-44:2,9,Lipidomics
+ASG 27:1 #1,9,Lipidomics
+TG 48:6,9,Lipidomics
+SHexCer 36:3 #1,9,Lipidomics
+BA 24:1 #86,9,Lipidomics
+A1A4R1,9,Proteomics

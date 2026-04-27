@@ -1,0 +1,41 @@
+Omics_Layer,Molecule,logFC,Direction,FDR,AveExpr
+Proteomics,Q3SZR8,2.792,↑ in High-grade,3.28e-04,18.919
+Proteomics,Q2TBU9,2.244,↑ in High-grade,2.84e-01,16.924
+Proteomics,A5D7A0,2.172,↑ in High-grade,2.92e-01,21.467
+Proteomics,Q29RH3,2.028,↑ in High-grade,4.02e-02,16.679
+Proteomics,Q9MYY0,2.02,↑ in High-grade,9.67e-02,19.215
+Proteomics,A6QLG5,-3.592,↓ in High-grade,3.55e-01,23.292
+Proteomics,Q5XQN5,-2.62,↓ in High-grade,1.25e-03,21.968
+Proteomics,Q148H7,-2.402,↓ in High-grade,2.78e-06,20.669
+Proteomics,P79334,-2.377,↓ in High-grade,2.05e-04,23.744
+Proteomics,Q9XSC6,-2.157,↓ in High-grade,5.41e-06,22.124
+Peptidomics,HERC2P9 #9,4.866,↑ in High-grade,9.76e-08,22.167
+Peptidomics,HERC2P9 #25,4.312,↑ in High-grade,2.14e-07,19.115
+Peptidomics,HERC2P9 #4,3.913,↑ in High-grade,4.58e-08,18.616
+Peptidomics,HERC2P9 #26,3.804,↑ in High-grade,4.58e-08,19.719
+Peptidomics,P21752 #67,3.756,↑ in High-grade,2.39e-02,15.939
+Peptidomics,LINC02483 #25,-5.294,↓ in High-grade,3.23e-09,20.625
+Peptidomics,P34955 #18,-4.795,↓ in High-grade,5.16e-08,22.047
+Peptidomics,P34955 #23,-4.677,↓ in High-grade,5.29e-07,18.301
+Peptidomics,LINC02483 #60,-4.646,↓ in High-grade,2.71e-03,18.508
+Peptidomics,P02769 #15,-4.631,↓ in High-grade,4.99e-04,18.68
+Metabolomics,Cyclocytidine,22.849,↑ in High-grade,3.72e-05,7.616
+Metabolomics,N4-Acetylsulfadimethoxine,22.421,↑ in High-grade,6.08e-11,13.699
+Metabolomics,"1,5,9-trihydroxy-5,7,7-tr...",22.215,↑ in High-grade,4.66e-11,14.602
+Metabolomics,"(3,5,14-trihydroxy-13-met...",21.761,↑ in High-grade,5.05e-11,7.254
+Metabolomics,Isosaxalin,20.697,↑ in High-grade,6.96e-10,13.683
+Metabolomics,C11H13NO5,-24.229,↓ in High-grade,1.54e-11,16.478
+Metabolomics,Amidosulfobetaine-14,-22.962,↓ in High-grade,1.54e-11,15.598
+Metabolomics,NCGC00380717-01_C27H36O7_...,-22.248,↓ in High-grade,2.15e-11,15.206
+Metabolomics,C15H20O10,-22.15,↓ in High-grade,1.56e-10,14.868
+Metabolomics,NCGC00380288-01_C21H26O5_...,-21.816,↓ in High-grade,1.54e-11,14.76
+Lipidomics,TG 48:6,19.43,↑ in High-grade,1.24e-12,12.934
+Lipidomics,ASG 27:1 #1,18.331,↑ in High-grade,1.24e-12,12.289
+Lipidomics,PC 33:0 #1,18.305,↑ in High-grade,1.24e-12,12.166
+Lipidomics,HexCer 43:2,16.454,↑ in High-grade,1.00e-09,10.85
+Lipidomics,BA 24:1 #70,16.4,↑ in High-grade,2.00e-11,10.906
+Lipidomics,SHexCer 36:3 #1,-17.426,↓ in High-grade,3.31e-11,5.809
+Lipidomics,Cer 39:7 #1,-15.373,↓ in High-grade,1.24e-12,10.501
+Lipidomics,SL 40:3,-15.34,↓ in High-grade,1.24e-12,10.488
+Lipidomics,Cer 37:7 #2,-15.115,↓ in High-grade,2.71e-12,10.329
+Lipidomics,SE 24:1 #77,-15.023,↓ in High-grade,1.00e-02,7.432

@@ -1,0 +1,95 @@
+Omics,Module,Correlation,P_value,Label,FullLabel
+Proteomics,blue,-0.6459446060835026,0.06019084857522099,"Proteomics
+blue",Proteomics | blue
+Proteomics,brown,-0.20070404460343283,0.6046066344997539,"Proteomics
+brown",Proteomics | brown
+Proteomics,green,-0.3630835258949814,0.3368468898734642,"Proteomics
+green",Proteomics | green
+Proteomics,grey,-0.27226443735960165,0.4784773845697752,"Proteomics
+grey",Proteomics | grey
+Proteomics,red,0.3401586085488902,0.37042190412334325,"Proteomics
+red",Proteomics | red
+Proteomics,turquoise,-0.889529792866714,0.0013222239141700393,"Proteomics
+turquoise",Proteomics | turquoise
+Proteomics,yellow,-0.9289980163939159,0.000292830954854654,"Proteomics
+yellow",Proteomics | yellow
+Peptidomics,black,0.030301690818059557,0.9383171162763883,"Peptidomics
+black",Peptidomics | black
+Peptidomics,blue,-0.628599175128472,0.06979631444643274,"Peptidomics
+blue",Peptidomics | blue
+Peptidomics,brown,-0.4740288670651021,0.19735915283013522,"Peptidomics
+brown",Peptidomics | brown
+Peptidomics,green,0.997166099385814,3.97819467236313e-09,"Peptidomics
+green",Peptidomics | green
+Peptidomics,grey,-0.04317716488883819,0.9121767378598685,"Peptidomics
+grey",Peptidomics | grey
+Peptidomics,magenta,0.18001435138179012,0.6430370027086214,"Peptidomics
+magenta",Peptidomics | magenta
+Peptidomics,pink,-0.04174417355891202,0.9150828624502517,"Peptidomics
+pink",Peptidomics | pink
+Peptidomics,purple,-0.9320578867823932,0.0002517571787069442,"Peptidomics
+purple",Peptidomics | purple
+Peptidomics,red,-0.512766922848009,0.15807041984772643,"Peptidomics
+red",Peptidomics | red
+Peptidomics,turquoise,0.8633950484655993,0.002707295112913325,"Peptidomics
+turquoise",Peptidomics | turquoise
+Peptidomics,yellow,-0.36937663212124067,0.32790289351085256,"Peptidomics
+yellow",Peptidomics | yellow
+Metabolomics,black,0.6256558885632423,0.07151548374803789,"Metabolomics
+black",Metabolomics | black
+Metabolomics,blue,0.8592186174588754,0.0029954092662251015,"Metabolomics
+blue",Metabolomics | blue
+Metabolomics,brown,0.8870297535851833,0.0014263356542787424,"Metabolomics
+brown",Metabolomics | brown
+Metabolomics,green,0.6348655012347657,0.06622292604518522,"Metabolomics
+green",Metabolomics | green
+Metabolomics,greenyellow,0.3472826985434109,0.3598232502937713,"Metabolomics
+greenyellow",Metabolomics | greenyellow
+Metabolomics,magenta,0.017222008267969866,0.9649242833161348,"Metabolomics
+magenta",Metabolomics | magenta
+Metabolomics,pink,0.14508646789296092,0.7095680560666912,"Metabolomics
+pink",Metabolomics | pink
+Metabolomics,purple,0.03465450503748962,0.9294730364449426,"Metabolomics
+purple",Metabolomics | purple
+Metabolomics,red,0.05742693899938078,0.8833318346035685,"Metabolomics
+red",Metabolomics | red
+Metabolomics,salmon,-0.40650036315902865,0.277607735954532,"Metabolomics
+salmon",Metabolomics | salmon
+Metabolomics,tan,0.0464961898746119,0.905449221724947,"Metabolomics
+tan",Metabolomics | tan
+Metabolomics,turquoise,0.3902062962404926,0.2991575385994394,"Metabolomics
+turquoise",Metabolomics | turquoise
+Metabolomics,yellow,0.06141898859534721,0.8752709262735532,"Metabolomics
+yellow",Metabolomics | yellow
+Lipidomics,black,-0.016077902022786777,0.9672534217857572,"Lipidomics
+black",Lipidomics | black
+Lipidomics,blue,-0.812394545525863,0.007796644494925314,"Lipidomics
+blue",Lipidomics | blue
+Lipidomics,brown,0.08190092330225293,0.8340826387964285,"Lipidomics
+brown",Lipidomics | brown
+Lipidomics,cyan,0.6702526978125423,0.0482046706082082,"Lipidomics
+cyan",Lipidomics | cyan
+Lipidomics,green,0.1285597325361651,0.74168063460656,"Lipidomics
+green",Lipidomics | green
+Lipidomics,greenyellow,0.07835363497929143,0.8411936629372089,"Lipidomics
+greenyellow",Lipidomics | greenyellow
+Lipidomics,lightcyan,0.39363328673432574,0.2945562430961482,"Lipidomics
+lightcyan",Lipidomics | lightcyan
+Lipidomics,magenta,-0.4189327612015312,0.26172828402987325,"Lipidomics
+magenta",Lipidomics | magenta
+Lipidomics,midnightblue,-0.41850857060816804,0.26226198202658485,"Lipidomics
+midnightblue",Lipidomics | midnightblue
+Lipidomics,pink,0.4674202695500463,0.20455648205101967,"Lipidomics
+pink",Lipidomics | pink
+Lipidomics,purple,-0.3819712725693306,0.3103630859355326,"Lipidomics
+purple",Lipidomics | purple
+Lipidomics,red,-0.1819468446048967,0.6394146548901324,"Lipidomics
+red",Lipidomics | red
+Lipidomics,salmon,-0.1432026280237546,0.7132095288708754,"Lipidomics
+salmon",Lipidomics | salmon
+Lipidomics,tan,-0.01886965336706037,0.9615704621831997,"Lipidomics
+tan",Lipidomics | tan
+Lipidomics,turquoise,0.8848032529812637,0.0015237306987020227,"Lipidomics
+turquoise",Lipidomics | turquoise
+Lipidomics,yellow,-0.05035469395511472,0.897634767389807,"Lipidomics
+yellow",Lipidomics | yellow
